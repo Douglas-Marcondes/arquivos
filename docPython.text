@@ -1,1 +1,13 @@
+Descrição das entradas de variavéis:
 
+nome = 'Douglas_Marcondes' (string)
+CPF = '136.574.079.21' (string)
+genero = 'M', 'F', 'Outro', 'Prefiro_nao_dizer' (string)
+data_nascimento = '05_10_2008' (int)
+telefone = '41_998674154' (int)
+email = 'lucasrafael@gmail.com'
+senha = 'xandao12345' (string)
+id_usuario = '08' (int)
+endereco = 'Rua_tilao_buzano_1122_PR' (string)
+tipo_mensagem = 'texto' (string)
+status_mensagem = 'nao_lido', 'lido' (string)
